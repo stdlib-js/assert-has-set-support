@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@deno/mod.js';
+import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@v0.2.1-deno/mod.js';
 ```
 
 #### hasSetSupport()
@@ -65,7 +65,7 @@ var bool = hasSetSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@deno/mod.js';
+import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@v0.2.1-deno/mod.js';
 
 var bool = hasSetSupport();
 if ( bool ) {
