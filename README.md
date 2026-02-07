@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@esm/index.mjs';
+import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@v0.2.3-esm/index.mjs';
 ```
 
 #### hasSetSupport()
@@ -70,7 +70,7 @@ var bool = hasSetSupport();
 <body>
 <script type="module">
 
-import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@esm/index.mjs';
+import hasSetSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-set-support@v0.2.3-esm/index.mjs';
 
 var bool = hasSetSupport();
 if ( bool ) {
